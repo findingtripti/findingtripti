@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Tripti Singh 
 
-<!--
-**findingtripti/findingtripti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering (2027)
 
-Here are some ideas to get you started:
+ Aspiring AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Passionate about Python, Machine Learning, and solving real-world problems.
+
+ 
+
+ 🚀 Skills
+- Python
+- C++
+- SQL
+- HTML, CSS, JavaScript
+- Pandas
+- NumPy
+- Scikit-learn
+- Git & GitHub
+
+
+
+Featured Projects
+- Fake News Detection (Machine Learning + NLP)
+  (https://findingtripti-fake-news-detection-appapp-fed8gv.streamlit.app/)
+-  Community Help Board
+-  Python To-Do List
+-  Python Calculator
+
+
+
+Currently Learning
+- Deep Learning
+- Generative AI
+- Data Structures & Algorithms
+
+
+
+Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tripti-singh-34b24b372/)
+- Email: triptisingh034@gmail.com
+
+Thanks for visiting my profile!
+
+
