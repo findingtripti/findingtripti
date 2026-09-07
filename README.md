@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/findingtripti/findingtripti/main/file_0000000035788211b8c1c739ff367d3c.png" width="100%">
+</p>
 Hi, I'm Tripti Singh 
 
 🎓 B.Tech Computer Science & Engineering (2027)
