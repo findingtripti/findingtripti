@@ -24,11 +24,14 @@ Hi, I'm Tripti Singh
 
 
 Featured Projects
+- EduReach-AI
+- CareerGateway (RAG + embeddings)
+- TaskFlow (Full Stack + JWT) 
+- Library-Manager
 - Fake News Detection (Machine Learning + NLP)
   (https://findingtripti-fake-news-detection-appapp-fed8gv.streamlit.app/)
 -  Community Help Board
--  Python To-Do List
--  Python Calculator
+
 
 
 
